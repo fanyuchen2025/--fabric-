@@ -1,0 +1,7 @@
+{
+  "name": "FabricTrace - 高端食品溯源",
+  "description": "一个模拟的 Hyperledger Fabric 区块链应用，用于追踪从供应商到消费者的高端食品。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
